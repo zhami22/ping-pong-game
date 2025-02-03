@@ -44,14 +44,19 @@ Navigate to the directory where the game is saved and run the following command 
 python ping_pong.py
 The game window will open, and you can start playing immediately.
 
-⚙️ Game Features
+⚙️ Game Features:
+
 Multiplayer: Two players can play locally on the same machine.
 Smooth gameplay: Ball physics for bounce and speed up after each hit.
 Scorekeeping: Displays score for both players on the screen.
-🛠️ Code Overview
+
+🛠️ Code Overview:
+
 tkinter: Used for creating the game window and handling user input.
 Ball mechanics: The ball bounces off walls and paddles, speeds up after each hit, and resets when it crosses the screen edge.
 Paddle control: Each player can move their paddle up and down using the keyboard keys.
 Scoring: Points are awarded when the opponent misses the ball, and the score is displayed at the top.
-🤝 Contributing
+
+🤝 Contributing:
+
 If you want to contribute to the project, feel free to open a pull request or issue. Any improvements or suggestions are welcome!
