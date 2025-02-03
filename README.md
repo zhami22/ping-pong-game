@@ -1,9 +1,11 @@
 Python Pong is a classic arcade Pong game written in Python using the tkinter library for creating the graphical user interface. In this game, two players control paddles to keep the ball in play and score points by making the opponent miss the ball.
 
-📜 Game Description
+📜 Game Description:
+
 The game consists of two paddles and a ball that bounces off the walls and paddles. Each player controls their own paddle, moving it up or down to hit the ball. When the ball hits one of the walls, the opponent scores a point, and the game continues. The goal is to score more points than your opponent.
 
-🎮 How to Play
+🎮 How to Play:
+
 Controls for Player 1 (left paddle):
 
 W — Move up.
@@ -16,7 +18,8 @@ Every time the ball goes out of bounds (either left or right), the player who mi
 
 The game continues until one of the players reaches a set number of points, or you manually stop the game.
 
-🚀 How to Run
+🚀 How to Run:
+
 To run the game on your computer, follow these steps:
 
 1. Install Python
